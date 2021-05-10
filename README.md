@@ -6,11 +6,7 @@ This project is done with **Java** using **NetBeans**
 
 ## How to Start Converting
 Choose 2 different type of converter in the list which includes:
-**-Hex** /n
-**-ASCII** /n
-**-Binary** /n
-**-Decimal** /n
-**-Base64** /n
+**-Hex, ASCII, Binary, Decimal, Base64**
 After choosing click **Set Converter** button to continue converting
 ## How to Convert
 After choosing 2 different type of unicode you want to convert
