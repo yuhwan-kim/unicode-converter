@@ -4,13 +4,15 @@ This project is done with **Java** using **NetBeans**
 
 **Unicode Converter** is a converter made to convert between different types of unicode
 
-## How to Start the Game
-Two players can start the game by one of the player writing **x y coordinates**
-The game will continue by players taking turns and placing **Go pieces**
-## How to Win a Game
-One of the players win when their own Go pieces are placed 5 in a row in any directions.
-### Basic Game Rules
-1. Players have to **take turn** placing Go pieces
-2. **Can't place** Go pieces on top of placed piece
-3. **Can't remove** the go pieces or place it outside of board
-
+## How to Start Converting
+Choose 2 different type of converter in the list which includes:
+**-Hex**
+**-ASCII**
+**-Binary**
+**-Decimal**
+**-Base64**
+After choosing click **Set Converter** button to continue converting
+## How to Convert
+After choosing 2 different type of unicode you want to convert
+Input the date in text box and click the **Convert** button to continue
+After clicking the Convert button there will be the converted value at the bottom of programm
