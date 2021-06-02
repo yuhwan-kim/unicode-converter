@@ -10,5 +10,5 @@ Choose 2 different type of converter in the list which includes:
 After choosing click **Set Converter** button to continue converting
 ## How to Convert
 After choosing 2 different type of unicode you want to convert
-Input the date in text box and click the **Convert** button to continue
+Input the data in text box and click the **Convert** button to continue
 After clicking the Convert button there will be the converted value at the bottom of programm
